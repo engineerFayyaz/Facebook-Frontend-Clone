@@ -7,7 +7,7 @@ export default function Login() {
     <div className="login">
       <div className="loginWrapper">
         <div className="loginLeft">
-          <h3 className="loginLogo">fchatSocial</h3>
+          <h3 className="loginLogo">Chateen</h3>
           <div className="loginLeftDesc">
             Connect with friends and the world <br /> around you on Fchatsocial.
           </div>

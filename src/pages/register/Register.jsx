@@ -7,9 +7,9 @@ export default function Register() {
     <div className="register">
         <div className="registerWrapper">
             <div className="registerLeft">
-                <h3 className="registerLogo">fchatSocial</h3>
+                <h3 className="registerLogo">Chateen</h3>
                 <div className="registerLeftDesc">
-                 Connect with friends and the world <br /> around you on Fchatsocial.
+                 Connect with friends and the world <br /> around you on Chateensocial.
                 </div>
             </div>
             <div className="registerRight">
